@@ -1,0 +1,1 @@
+IncludeDirs["glfw"] = "%{wks.location}/bakara/vendor/glfw/include"

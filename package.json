@@ -1,0 +1,14 @@
+{
+    "name": "GLFW",
+    "owner": "anulax1225",
+    "git": "https://github.com/anulax1225/glfw",
+    "links": 
+    [
+        "GLFW"
+    ],
+    "includes": 
+    [
+        "glfw"
+    ],
+    "packages":[]
+}
